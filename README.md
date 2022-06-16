@@ -12,6 +12,5 @@
 
 4) #### **The Sparks Foundation "1st Internship" (Bunch of 8 Tasks link) : https://github.com/deepak7642/deepakkaura-TSF-Internship-GRIPJAN2021-**
 
-5) #### **EDA and Modeling on "Predicting Employees Absenteeism" (Colab link) : https://colab.research.google.com/drive/1eLDtDbFKbhU5TP4MlRrEkwPMzNt0u1iQ?usp=sharing**
 
-6) #### **Capstone Project of Price Optimization (link for it) : https://github.com/deepak7642/Capstone-Project-Price-Optimization**
+5) #### **Capstone Project of Price Optimization (link for it) : https://github.com/deepak7642/Capstone-Project-Price-Optimization**
