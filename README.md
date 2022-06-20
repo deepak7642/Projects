@@ -1,4 +1,4 @@
-# **Few Samples of My Work (list will update time by time) : -**
+# **Few Samples of My Work (list will update time-to-time) : -**
 
 
 1) #### **Resolute.AI  "3rd Internship" [on-going internship] (Bunch of Tasks links) : https://github.com/deepak7642/Resolute.AI**
