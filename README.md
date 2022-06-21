@@ -14,3 +14,5 @@
 
 
 5) #### **Capstone Project of Price Optimization (link for it) : https://github.com/deepak7642/Capstone-Project-Price-Optimization**
+
+6) #### **Kaggle competition on "Feedback Prize - Predicting Effective Arguments" (My notebook) : https://www.kaggle.com/code/deepakkaura/student-writing-the-visualization**
