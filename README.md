@@ -15,4 +15,6 @@
 
 5) #### **Capstone Project of Price Optimization (link for it) : https://github.com/deepak7642/Capstone-Project-Price-Optimization**
 
-6) #### **Kaggle competition - "Feedback Prize - Predicting Effective Arguments" (My notebook) : https://www.kaggle.com/code/deepakkaura/student-writing-the-visualization**
+6) #### **Kaggle competition - "Feedback Prize - Predicting Effective Arguments" (My notebook got Bronze medal) : https://www.kaggle.com/code/deepakkaura/student-writing-the-visualization**
+
+7) #### **Kaggle competition - "American Express - Default Prediction" (My notebook got Bronze medal) : https://www.kaggle.com/code/deepakkaura/welcome-to-the-banking-sector**
