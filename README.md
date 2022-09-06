@@ -1,4 +1,4 @@
-# ***My Work (this list includes my workex, other platform notebooks & some of my own stuff too) : -***
+# ***My Work (this list includes my workex, other platform notebooks & some own stuff too) : -***
 
 1) #### **The Sparks Foundation ("1st Internship") :** *The work there was to complete bunch of 8 tasts related to EDA and Machine Learnings, here is the link for it https://github.com/deepak7642/deepakkaura-TSF-Internship-GRIPJAN2021-*
 
