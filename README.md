@@ -1,20 +1,21 @@
-# **Few Samples of My Work (list will update time-to-time) : -**
+# ***My Work (this list includes my workex, other platform notebooks & some of my own stuff too) : -***
 
+1) #### **The Sparks Foundation ("1st Internship") :** *The work there was to complete bunch of 8 tasts related to EDA and Machine Learnings, here is the link for it https://github.com/deepak7642/deepakkaura-TSF-Internship-GRIPJAN2021-*
 
-1) #### **Resolute.AI  "3rd Internship" [on-going internship] (Bunch of Tasks links) : https://github.com/deepak7642/Resolute.AI**
+2) #### **A2J Technology ("2nd Internship") :** *The work there was to do Data Cleaning, Cashflow prediction, LSTM Hyper Tuning Model and Machine Learning and it's differ algorithms implementation such as - Logistic Regression, Random Forest and Decision Tree.*
 
+3) #### **Resolute.AI  ("3rd Internship") :** *The work was Primary tasks were related to Predictive Analytics on Used cases in Different Industries and later, Secondary tasks were related to show UI with the help of Streamlit to deploy Simple Exploratory Data Analysis(Altair and Plotly libraries were mostly used).*
 
-2) #### **Docs on "Cluster Analysis on Medical data" (Pre-Internship Task) : https://docs.google.com/document/d/1u9HTPlyI3PiFDd1CgA7Lmh0h89eGx2ODCM7GBiYSDkU/edit?usp=sharing**
+4) #### **Capstone Project of Price Optimization (link for it) : https://github.com/deepak7642/Capstone-Project-Price-Optimization**
 
+5) #### **Docs on "Cluster Analysis on Medical data" : https://docs.google.com/document/d/1u9HTPlyI3PiFDd1CgA7Lmh0h89eGx2ODCM7GBiYSDkU/edit?usp=sharing**
 
-3) #### **Kaggle Competition - "Spaceship Titanic" (My notebook got Bronze medal) : https://www.kaggle.com/code/deepakkaura/spaceship-titanic-story-of-a-space-titanic**
+6) #### **Kaggle Competition - "Spaceship Titanic" : https://www.kaggle.com/code/deepakkaura/spaceship-titanic-story-of-a-space-titanic**
 
+7) #### **Kaggle competition - "Feedback Prize - Predicting Effective Arguments" : https://www.kaggle.com/code/deepakkaura/student-writing-the-visualization**
 
-4) #### **The Sparks Foundation "1st Internship" (Bunch of 8 Tasks link) : https://github.com/deepak7642/deepakkaura-TSF-Internship-GRIPJAN2021-**
+8) #### **Kaggle competition - "American Express - Default Prediction" : https://www.kaggle.com/code/deepakkaura/welcome-to-the-banking-sector**
 
+9) #### **Resume Screening ("The HR solution") - https://www.kaggle.com/code/deepakkaura/resume-screening-the-hr-solution**
 
-5) #### **Capstone Project of Price Optimization (link for it) : https://github.com/deepak7642/Capstone-Project-Price-Optimization**
-
-6) #### **Kaggle competition - "Feedback Prize - Predicting Effective Arguments" (My notebook got Bronze medal) : https://www.kaggle.com/code/deepakkaura/student-writing-the-visualization**
-
-7) #### **Kaggle competition - "American Express - Default Prediction" (My notebook got Bronze medal) : https://www.kaggle.com/code/deepakkaura/welcome-to-the-banking-sector**
+10) #### **A Report on "Digital Fitness Band" - https://www.kaggle.com/code/deepakkaura/a-report-digital-fitness-band**
